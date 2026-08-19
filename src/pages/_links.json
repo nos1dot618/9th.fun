@@ -122,7 +122,7 @@
   },
   {
     "label": "Projects",
-    "url": "https://gitea.9th.fun/explore",
+    "url": "https://gitlab.com/users/ninthcircle/projects",
     "color": "yellow",
     "target": true,
     "navbar": true
